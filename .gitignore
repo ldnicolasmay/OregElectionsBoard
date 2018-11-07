@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.zip
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.txt
+*.log
+sparklyr_ml*.R
+aff_download
+reg_vtrs_sp.parquet
+OCT 2018 Statewide
+logs
